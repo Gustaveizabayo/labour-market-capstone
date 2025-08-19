@@ -17,3 +17,22 @@ It is part of my capstone work in learning **Python, data analysis, and visualiz
 
 ## 📂 Project Structure
 
+---
+
+# Core data analysis
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Statistics & modeling
+statsmodels
+scikit-learn
+
+# Jupyter support
+jupyter
+notebook
+
+
